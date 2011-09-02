@@ -1,6 +1,6 @@
-PhoneGap-Start
+SBA Mobile
 ---
 
-A starting point for PhoneGap apps.
+Advanced features, such as access to member email addresses, is only available to logged in members.
 
-To get started: fork this repo, modify the config.xml to match your details, and get building!
+For additional information or assistance, please contact the State Bar of Arizona Member Resource Center at 602.340.7239 during normal business hours of 8:30AM - 5:00PM M-F.
